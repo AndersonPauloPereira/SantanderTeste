@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TesteAndroidV2</string>
+    <string name="txemail">Email</string>
+    <string name="txsenha">Senha</string>
+    <string name="txlogin">Login</string>
+    <string name="textview">TextView</string>
+</resources>
